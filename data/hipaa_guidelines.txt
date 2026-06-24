@@ -1,0 +1,5 @@
+Patient information must remain confidential.
+
+Protected health information should not be shared without patient consent.
+
+Access to medical records should be restricted to authorized personnel only.

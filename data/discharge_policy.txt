@@ -1,0 +1,5 @@
+Patients should take medications exactly as prescribed after discharge.
+
+Follow-up appointments should be scheduled within seven days.
+
+Patients should contact the hospital if symptoms worsen.
