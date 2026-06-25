@@ -11,7 +11,9 @@ from app.config import MODEL_NAME
 llm = ChatOllama(
     model=MODEL_NAME,
     temperature=0,
-    base_url="http://host.docker.internal:11434"
+    #base_url="http://host.docker.internal:11434"
+    base_url="http://127.0.0.1:11434",  # Force IPv4 instead of 'localhost'
+    timeout=120
 )
 
 
