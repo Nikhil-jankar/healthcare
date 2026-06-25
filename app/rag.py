@@ -2,6 +2,7 @@ from pathlib import Path
 
 from langchain_community.document_loaders import TextLoader
 #from langchain_community.document_loaders import pypdfloader
+#from langchain_community.document_loaders import CSVLoader
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
