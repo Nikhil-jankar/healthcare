@@ -239,14 +239,7 @@ docker run -p 8000:8000 healthcare-ai
 
 ---
 
-## Future Enhancements
 
-* Hybrid Search (BM25 + Vector Search)
-* Multi-document Retrieval
-* Re-ranking Pipeline
-* Role-Based Access Control
-* Production Monitoring
-* Cloud Deployment
 
 ## Dataset / Source Details
 
@@ -331,7 +324,7 @@ The application uses a lightweight routing layer.
 
 ### RAG Flow
 
-User Question
+→ User Question
 → Retriever
 → ChromaDB
 → Retrieved Context
@@ -359,18 +352,6 @@ This demonstrates both retrieval-based and tool-based reasoning.
 * Local deployment only
 
 ---
-
-## Future Improvements
-
-* Hybrid Search (BM25 + Vector Search)
-* Document Re-ranking
-* Multi-turn Memory
-* Role-Based Access Control
-* Cloud Deployment
-* Monitoring and Observability
-* Additional Healthcare Tools
-* Larger Healthcare Knowledge Base
-
 
 
 # Quick Start Guide
